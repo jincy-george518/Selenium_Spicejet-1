@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-29T09:34:07 IST" name="Suite" finished-at="2021-11-29T09:34:56 IST" duration-ms="48960">
+    <groups>
+    </groups>
+    <test started-at="2021-11-29T09:34:07 IST" name="testng" finished-at="2021-11-29T09:34:56 IST" duration-ms="48960">
+      <class name="com.stackroute.SpicejetTest.SpicejetTest">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.stackroute.SpicejetTest.SpicejetTest@77eca502]" started-at="2021-11-29T09:34:07 IST" name="beforeClass" finished-at="2021-11-29T09:34:21 IST" duration-ms="13215" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="homepageTest()[pri:1, instance:com.stackroute.SpicejetTest.SpicejetTest@77eca502]" started-at="2021-11-29T09:34:21 IST" name="homepageTest" finished-at="2021-11-29T09:34:28 IST" duration-ms="7479" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homepageTest -->
+        <test-method signature="PricechooseTest()[pri:2, instance:com.stackroute.SpicejetTest.SpicejetTest@77eca502]" started-at="2021-11-29T09:34:28 IST" name="PricechooseTest" finished-at="2021-11-29T09:34:36 IST" duration-ms="8199" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PricechooseTest -->
+        <test-method signature="DataInsertionTest()[pri:3, instance:com.stackroute.SpicejetTest.SpicejetTest@77eca502]" started-at="2021-11-29T09:34:36 IST" name="DataInsertionTest" finished-at="2021-11-29T09:34:43 IST" duration-ms="6781" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DataInsertionTest -->
+        <test-method signature="AddonsTest()[pri:4, instance:com.stackroute.SpicejetTest.SpicejetTest@77eca502]" started-at="2021-11-29T09:34:43 IST" name="AddonsTest" finished-at="2021-11-29T09:34:52 IST" duration-ms="9008" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddonsTest -->
+        <test-method signature="FinalpageTest()[pri:5, instance:com.stackroute.SpicejetTest.SpicejetTest@77eca502]" started-at="2021-11-29T09:34:52 IST" name="FinalpageTest" finished-at="2021-11-29T09:34:52 IST" duration-ms="56" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FinalpageTest -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.stackroute.SpicejetTest.SpicejetTest@77eca502]" started-at="2021-11-29T09:34:52 IST" name="afterClass" finished-at="2021-11-29T09:34:56 IST" duration-ms="4168" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.stackroute.SpicejetTest.SpicejetTest -->
+    </test> <!-- testng -->
+  </suite> <!-- Suite -->
+</testng-results>
